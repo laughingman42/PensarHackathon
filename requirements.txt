@@ -3,5 +3,6 @@ langgraph>=0.0.15
 streamlit
 langgraph
 langchain_community
+Faker
 pydantic>=2.5.0
 langchain_community>=0.0.13
