@@ -4,5 +4,6 @@ streamlit
 langgraph
 langchain_community
 Faker
+langchain-ollama
 pydantic>=2.5.0
 langchain_community>=0.0.13
