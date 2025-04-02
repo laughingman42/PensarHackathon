@@ -1,4 +1,4 @@
-langchain>=0.1.0
+langchain>=0.2.5
 langgraph>=0.0.15
 streamlit
 langgraph
@@ -6,4 +6,4 @@ langchain_community
 Faker
 langchain-ollama
 pydantic>=2.5.0
-langchain_community>=0.0.13
+langchain_community>=0.2.9
